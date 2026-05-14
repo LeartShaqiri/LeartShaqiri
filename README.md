@@ -1,4 +1,4 @@
-Im Leart — a 16-year-old developer passionate about building real, useful tech from scratch.
+Im Leart — a 17-year-old developer passionate about building real, useful tech from scratch.
 I don't just learn code — I build with it: AI systems, gesture tech, smart platforms, and anything that turns ideas into action.
 
  API explorer AI-User. Obsessed with turning ideas into reality.
